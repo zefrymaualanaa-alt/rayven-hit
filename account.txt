@@ -1,4 +1,2 @@
-data07:masuk123
-data08:masuk123
-data09:masuk123
-data10:masuk123
+ateng01:masuk123
+ateng02:masuk123
